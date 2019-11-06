@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Lottie_Swift4_Example' do
+  pod 'Lottie_Swift4', :path => '../'
+
+  target 'Lottie_Swift4_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
