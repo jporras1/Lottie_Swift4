@@ -1,0 +1,16 @@
+PODS:
+  - Lottie_Swift4 (0.1.0)
+
+DEPENDENCIES:
+  - Lottie_Swift4 (from `../`)
+
+EXTERNAL SOURCES:
+  Lottie_Swift4:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Lottie_Swift4: 7cf69f1545b91e46256cc7597eec4ff75a913853
+
+PODFILE CHECKSUM: a9e41ad9840b9302577e4ec524a04e2bd759dee1
+
+COCOAPODS: 1.6.1

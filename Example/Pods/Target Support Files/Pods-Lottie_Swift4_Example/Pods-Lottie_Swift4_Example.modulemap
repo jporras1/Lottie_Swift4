@@ -1,0 +1,6 @@
+framework module Pods_Lottie_Swift4_Example {
+  umbrella header "Pods-Lottie_Swift4_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
